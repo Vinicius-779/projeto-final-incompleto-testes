@@ -7,7 +7,6 @@
         "microphone": "*",
         "servo": "*",
         "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6",
-        "keyestudio KS4033": "github:kou1okada/ks4033#a26761ae7ad39db986d40488f076caf57f5da9bc",
         "TCS34725MUX": "github:Vinicius-779/53636#8be296d4602f9f80297abc3fc441129689b3bd19",
         "L298N-Motor": "github:Vinicius-779/DRIVE-MOTOR#1017f45ace3026446c70eada6cb4cffe3e66c29b"
     },
